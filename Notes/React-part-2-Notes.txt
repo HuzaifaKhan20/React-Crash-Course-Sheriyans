@@ -1,0 +1,9 @@
+1) Two way binding in react: Is ma hum DOM ko direct manipulate nahi kar sakta balka hum ko react ko batana hota ha ka hum DOM ma kya karna chahta hain or hum useState sa react ko batate hain.
+
+2) App Routing: It is a part of Next in which we make folders in Titlecase in App folder and make page.js so it the page will route to this as:
+<a href="/Contact">Explore</a> --- Page will refresh
+
+import Link from 'next/link';
+<Link href="/Contact">Explore</Link> --- Page will not refresh
+
+3) useEffect will update the page automatically according to the situation
