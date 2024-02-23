@@ -7,3 +7,6 @@ import Link from 'next/link';
 <Link href="/Contact">Explore</Link> --- Page will not refresh
 
 3) useEffect will update the page automatically according to the situation
+
+
+Video Time : 1:01:00
