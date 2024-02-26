@@ -9,4 +9,6 @@ import Link from 'next/link';
 3) useEffect will update the page automatically according to the situation
 
 
-Video Time : 1:01:00
+4) my context shuold be imported in layout.js like ---> import MyContext from "@/Helper/Context";
+
+Video Time : Completed

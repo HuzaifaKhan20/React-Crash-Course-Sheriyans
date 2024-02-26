@@ -1,8 +1,9 @@
 import React from 'react'
 
-const Nav = () => {
+const Nav = (props) => {
+  console.log(props.num)
   return (
-    <div className='bg-red-200'>Navigation</div>
+    <div className='bg-red-200'>{props.num}</div>
   )
 }
 
